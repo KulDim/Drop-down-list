@@ -46,8 +46,10 @@
     cursor: pointer;
     background-color: #FFCC00;
 }
+#management button:hover{
+    background-color: #e7c024b2;
+}
 .list{
-    /* width: 100%; */
     position: absolute;
     width: 450px;
     padding: 2px;
